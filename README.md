@@ -1,6 +1,8 @@
 # DarkSIBARICropImage
 crop image view，cutting image，edit image
 
+by Xcode 6.3.2 Objective-C
+
 At least iOS 7.0
 
 For iPhone and iPad
