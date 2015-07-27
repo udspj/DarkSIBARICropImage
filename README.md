@@ -9,6 +9,8 @@ For iPhone and iPad
 
 Support Landscape and Portrait
 
+the CropRectView(white bordered box) is never exceed the image border, CropRectView is always within the image
+
 
 
 ![udspj](https://github.com/udspj/DarkSIBARICropImage/blob/master/readmeimg/IMG_0537.PNG?raw=true)
